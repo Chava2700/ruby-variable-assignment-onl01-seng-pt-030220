@@ -4,4 +4,10 @@ tags:
 languages:
   - ruby
 resources: 2
-
+ variable = greeting
+ 
+ greeting = "Hello World"
+ 
+ 
+ 
+ 
